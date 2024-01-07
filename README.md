@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Chenxi96/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://singular-cupcake-16e900.netlify.app/)
+- Solution URL: [Github code](https://github.com/Chenxi96/blog-preview-card)
+- Live Site URL: [Project site](https://singular-cupcake-16e900.netlify.app/)
 
 ## My process
 
@@ -92,8 +92,8 @@ I would like to get into the responsiveness of site, and get into making animati
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/css/css_align.asp) - This helped me center a div.
-- [Example resource 2](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is a great site which help me use flexbox.
+- [Center a Div](https://www.w3schools.com/css/css_align.asp) - This helped me center a div.
+- [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is a great site which help me use flexbox.
 
 
 ## Author
