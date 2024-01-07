@@ -3,13 +3,23 @@
     src: url('/assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype');
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
 body {
     background-color: hsl(47, 88%, 63%);
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
     font-family: 'figtree';
     gap: 15px;
 }
@@ -31,28 +41,22 @@ body {
 }
 
 .illustration-image {
+    width: 100%;
     border-radius: 5%;
 }
 
 .label {
     background-color: hsl(47, 88%, 63%);
-    width: 60px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    width: 85px;
+    padding: 5px 10px;
     border-radius: 5px;
+    margin-bottom: 15px;
     font-weight: 600;
 }
 
 h2 {
     font-weight: 800;
-    margin: 0;
-}
-
-h2:hover {
-    color: hsl(47, 88%, 63%);
-    cursor: pointer;
+    margin: 20px 0;
 }
 
 .description-container {
@@ -74,6 +78,7 @@ h2:hover {
 
 .paragraph {
     color: hsl(0, 0%, 50%);
+    margin-bottom: 20px;
 }
 
 .name{
